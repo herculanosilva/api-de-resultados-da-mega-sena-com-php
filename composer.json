@@ -1,0 +1,9 @@
+{
+    "name":"api/loterias",
+    "autoload": {
+        "psr-4": {
+            "App\\":"app/"
+        }
+    }
+}
+

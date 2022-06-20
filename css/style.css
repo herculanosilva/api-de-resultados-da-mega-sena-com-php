@@ -1,0 +1,17 @@
+.dezenas{
+    color: green;
+    font-weight: bold;
+    font-size: 30px;
+
+    border:3px solid #ccc;
+    border-radius: 50%;
+    
+    width: 80px;
+    height: 80px;
+    margin: 5px;
+    
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+}
